@@ -1,4 +1,4 @@
-
+# HackBio Biocoding Internship - Stage Zero Task
 
 ## Overview
 This project presents a solution to a task that required forming a team and organizing specific information about each member using simple data structures in either Python or R. The solution was implemented in Python, using nested dictionaries to organize information about each team member in a clear, logical and structured format.
