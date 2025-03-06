@@ -1,7 +1,7 @@
-# HackBio Internship - Stage 2 Tasks
+# HackBio Biocoding Internship - Stage 2 Task
 
 ## Overview
-This repository contains solutions for the HackBio Internship Stage 2 tasks, covering microbiology, biochemistry & oncology, transcriptomics, and public health. Each task involves data analysis, visualization, and statistical testing.
+The project focused on various biological data analysis methods in microbiology, biochemistry & oncology, transcriptomics, and public health. Each task involves data analysis, visualization, and statistical testing.
 
 ## Task Descriptions & Implementations
 
